@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6bb01d6.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.33dea7ef.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.33dea7ef.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.e295dedc.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.e295dedc.js.map",
-    "static/js/2.22b6d6b3.chunk.js": "/react-gh-pages/static/js/2.22b6d6b3.chunk.js",
-    "static/js/2.22b6d6b3.chunk.js.map": "/react-gh-pages/static/js/2.22b6d6b3.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.d2efce0f8f3e9c100a0475d951987b22.js": "/react-gh-pages/precache-manifest.d2efce0f8f3e9c100a0475d951987b22.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.e6bb01d6.chunk.css.map": "/react-gh-pages/static/css/main.e6bb01d6.chunk.css.map",
-    "static/js/2.22b6d6b3.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.22b6d6b3.chunk.js.LICENSE.txt"
+    "main.css": "/react-grocery-list-project/static/css/main.e6bb01d6.chunk.css",
+    "main.js": "/react-grocery-list-project/static/js/main.33dea7ef.chunk.js",
+    "main.js.map": "/react-grocery-list-project/static/js/main.33dea7ef.chunk.js.map",
+    "runtime-main.js": "/react-grocery-list-project/static/js/runtime-main.caa73717.js",
+    "runtime-main.js.map": "/react-grocery-list-project/static/js/runtime-main.caa73717.js.map",
+    "static/js/2.22b6d6b3.chunk.js": "/react-grocery-list-project/static/js/2.22b6d6b3.chunk.js",
+    "static/js/2.22b6d6b3.chunk.js.map": "/react-grocery-list-project/static/js/2.22b6d6b3.chunk.js.map",
+    "index.html": "/react-grocery-list-project/index.html",
+    "precache-manifest.6abba13d136bc024490660e88f9b0f32.js": "/react-grocery-list-project/precache-manifest.6abba13d136bc024490660e88f9b0f32.js",
+    "service-worker.js": "/react-grocery-list-project/service-worker.js",
+    "static/css/main.e6bb01d6.chunk.css.map": "/react-grocery-list-project/static/css/main.e6bb01d6.chunk.css.map",
+    "static/js/2.22b6d6b3.chunk.js.LICENSE.txt": "/react-grocery-list-project/static/js/2.22b6d6b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e295dedc.js",
+    "static/js/runtime-main.caa73717.js",
     "static/js/2.22b6d6b3.chunk.js",
     "static/css/main.e6bb01d6.chunk.css",
     "static/js/main.33dea7ef.chunk.js"
